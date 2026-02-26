@@ -14,7 +14,9 @@ Automatically generate an e-challan for violations
 🗂️ Project Structure:
 
 Helmet/
+
 ├── app/
+
 │   ├── detector.py        ← YOLOv8 helmet & plate detection
 
 │   ├── ocr_plate.py       ← EasyOCR number plate reader
