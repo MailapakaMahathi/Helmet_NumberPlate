@@ -132,7 +132,8 @@ main.py
 
 predict_image.py
 
-<img width="504" height="768" alt="image" src="https://github.com/user-attachments/assets/524d0156-ba6f-487b-b628-5147eef8be5c" />
+
+<img width="343" height="615" alt="Screenshot 2026-02-26 145143" src="https://github.com/user-attachments/assets/debbcca4-e5d7-49e0-874c-f241cdacb456" />
 <img width="504" height="768" alt="image" src="https://github.com/user-attachments/assets/116ac4be-3ec2-4d82-85e6-b30586f981ea" />
 <img width="391" height="205" alt="image" src="https://github.com/user-attachments/assets/7cf72e14-34e4-42a4-acb6-3fa7945ab075" />
 
