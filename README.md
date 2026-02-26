@@ -68,12 +68,19 @@ Violation image saved
 
 {
     "challan_id": "CH202602210001",
+    
     "date": "2026-02-21",
+    
     "time": "23:15:00",
+    
     "violation": "Riding without helmet",
+    
     "vehicle_number": "KL09A03439",
+    
     "fine_amount": "Rs. 1000",
+    
     "status": "Pending",
+    
     "image": "violations/violation_KL09A03439.jpg"
 }
 
