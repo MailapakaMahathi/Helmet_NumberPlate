@@ -16,15 +16,24 @@ Automatically generate an e-challan for violations
 Helmet/
 ├── app/
 │   ├── detector.py        ← YOLOv8 helmet & plate detection
+
 │   ├── ocr_plate.py       ← EasyOCR number plate reader
+
 │   ├── predict_image.py   ← Run detection on images
+
 │   └── challan.py         ← E-challan generator
+
 ├── model/
 │   └── best.pt            ← Trained YOLOv8 model
+
 ├── main.py                ← Run detection on video/webcam
+
 ├── violations/            ← Saved violation images
+
 ├── challans/              ← Generated e-challan JSON files
+
 ├── requirements.txt       ← Python dependencies
+
 └── README.md
 
 🏷️ Model Details
@@ -97,11 +106,17 @@ torchvision
 🗃️ Dataset
 
 Detail              Info
+
 Source              Roboflow Universe
+
 Total Images        20,287
+
 Train               17,742
+
 Valid               1,690
+
 Test                855
+
 Classes             4
 
 Results
