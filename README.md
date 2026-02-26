@@ -1,4 +1,4 @@
-<img width="618" height="719" alt="image" src="https://github.com/user-attachments/assets/ec35aa32-f233-4cab-911d-7c2f2c7d9c5d" />🪖 Helmet Detection & E-Challan System
+🪖 Helmet Detection & E-Challan System
 An automated traffic surveillance system that detects helmet violations on motorcycles, reads number plates using OCR, and generates e-challans for violators.
 
 📌 Project Overview
@@ -92,11 +92,14 @@ Classes             4
 
 Results
 main.py
+
 ![violation_KL409A03439](https://github.com/user-attachments/assets/12f33ac9-8613-43f8-884a-b36e6d5a5762)
 <img width="399" height="203" alt="image" src="https://github.com/user-attachments/assets/66d048ed-2146-4199-81aa-7cda98c89f6e" />
 ![violation_INS7VJ6878](https://github.com/user-attachments/assets/a7d122d7-c4f0-4a3e-abe9-60dfff768abf)
 <img width="380" height="196" alt="image" src="https://github.com/user-attachments/assets/53a62f6d-13cc-4640-a563-20f48906213b" />
+
 predict_image.py
+
 ![violation_INS7VJ6878](https://github.com/user-attachments/assets/b04dcdfa-da41-4920-9ab6-90de2b5e5d70)
 <img width="504" height="768" alt="image" src="https://github.com/user-attachments/assets/116ac4be-3ec2-4d82-85e6-b30586f981ea" />
 
