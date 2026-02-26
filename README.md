@@ -1,9 +1,10 @@
 🪖 Helmet Detection & E-Challan System
+
 An automated traffic surveillance system that detects helmet violations on motorcycles, reads number plates using OCR, and generates e-challans for violators.
 
 📌 Project Overview
-This system uses YOLOv8 deep learning model and Computer Vision techniques to:
 
+This system uses YOLOv8 deep learning model and Computer Vision techniques to:
 Detect riders on motorcycles
 Identify whether the rider is wearing a helmet or not
 Detect and localize the vehicle's number plate
@@ -11,6 +12,7 @@ Extract number plate text using OCR
 Automatically generate an e-challan for violations
 
 🗂️ Project Structure:
+
 Helmet/
 ├── app/
 │   ├── detector.py        ← YOLOv8 helmet & plate detection
@@ -26,6 +28,7 @@ Helmet/
 └── README.md
 
 🏷️ Model Details
+
 Detail             Info
 Architecture       YOLOv8Large
 Parameters         43.6 Million
@@ -33,6 +36,7 @@ Classes            4
 Input Size         640x640
 
 📊 How It Works
+
 Input Image/Video
       ↓
 YOLOv8 Detection
@@ -50,6 +54,7 @@ E-Challan Generated (JSON)
 Violation image saved
 
 📄 E-Challan Format
+
 {
     "challan_id": "CH202602210001",
     "date": "2026-02-21",
@@ -72,6 +77,7 @@ Violation image saved
 | PyTorch | Deep learning backend |
 
 📦 Requirements
+
 ultralytics
 opencv-python
 easyocr
@@ -82,6 +88,7 @@ torch
 torchvision
 
 🗃️ Dataset
+
 Detail              Info
 Source              Roboflow Universe
 Total Images        20,287
@@ -91,6 +98,7 @@ Test                855
 Classes             4
 
 Results
+
 main.py
 
 ![violation_KL409A03439](https://github.com/user-attachments/assets/12f33ac9-8613-43f8-884a-b36e6d5a5762)
