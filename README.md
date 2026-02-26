@@ -100,8 +100,10 @@ main.py
 
 predict_image.py
 
-![violation_INS7VJ6878](https://github.com/user-attachments/assets/b04dcdfa-da41-4920-9ab6-90de2b5e5d70)
+<img width="504" height="768" alt="image" src="https://github.com/user-attachments/assets/524d0156-ba6f-487b-b628-5147eef8be5c" />
 <img width="504" height="768" alt="image" src="https://github.com/user-attachments/assets/116ac4be-3ec2-4d82-85e6-b30586f981ea" />
+<img width="391" height="205" alt="image" src="https://github.com/user-attachments/assets/7cf72e14-34e4-42a4-acb6-3fa7945ab075" />
+
 
 
 
